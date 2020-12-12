@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TransformohuDBEntitiesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Abonuesi">
+    <Key>
+      <PropertyRef Name="RFIDNr" />
+    </Key>
+    <Property Name="RFIDNr" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="Emri" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Mbiemri" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="PersonalNr" Type="nvarchar" MaxLength="50" />
+    <Property Name="Gjinia" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DataFillimit" Type="datetime" Nullable="false" />
+    <Property Name="DataSkadimit" Type="datetime" Nullable="false" />
+    <Property Name="IsInside" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Foto" Type="varbinary(max)" />
+    <Property Name="Traineri" Type="nchar" MaxLength="20" />
+    <Property Name="Pako" Type="varchar" MaxLength="20" />
+    <Property Name="DataRegjistrimit" Type="datetime" />
+  </EntityType>
+  <EntityType Name="DollapatFemraves">
+    <Key>
+      <PropertyRef Name="NrDollapit" />
+    </Key>
+    <Property Name="NrDollapit" Type="int" Nullable="false" />
+    <Property Name="RFIDNr" Type="nchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="DollapatMeshkujts">
+    <Key>
+      <PropertyRef Name="NrDollapit" />
+    </Key>
+    <Property Name="NrDollapit" Type="int" Nullable="false" />
+    <Property Name="RFIDNr" Type="nchar" MaxLength="20" />
+  </EntityType>
+  <EntityContainer Name="TransformohuDBEntitiesModelStoreContainer">
+    <EntitySet Name="Abonuesi" EntityType="Self.Abonuesi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DollapatFemraves" EntityType="Self.DollapatFemraves" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DollapatMeshkujts" EntityType="Self.DollapatMeshkujts" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,361 @@
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe.config
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.pdb
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.dll
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Modbus.dll
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\log4net.dll
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Unme.Common.dll
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.xml
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csprojAssemblyReference.cache
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Form1.resources
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.KerkoAbonimin.resources
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Properties.Resources.resources
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AbonimetForm.resources
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Settings.resources
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ZhFemrave.resources
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ZhMeshkujve.resources
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.GenerateResource.cache
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CoreCompileInputs.cache
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CopyComplete
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.exe
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.pdb
+C:\Users\Getoar\Source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.LockerSettings.resources
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe.config
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.pdb
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.dll
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\log4net.dll
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Unme.Common.dll
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.xml
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csprojAssemblyReference.cache
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Form1.resources
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.KerkoAbonimin.resources
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.LockerSettings.resources
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Properties.Resources.resources
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AbonimetForm.resources
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Settings.resources
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ZhFemrave.resources
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ZhMeshkujve.resources
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.GenerateResource.cache
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CoreCompileInputs.cache
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CopyComplete
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.exe
+C:\Users\Kobit PC\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.pdb
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csprojAssemblyReference.cache
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Form1.resources
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.KerkoAbonimin.resources
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.LockerSettings.resources
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Properties.Resources.resources
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AbonimetForm.resources
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Settings.resources
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ZhFemrave.resources
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ZhMeshkujve.resources
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.GenerateResource.cache
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CoreCompileInputs.cache
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.exe
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.pdb
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe.config
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.pdb
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.dll
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\log4net.dll
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Unme.Common.dll
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.xml
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CopyComplete
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe.config
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.pdb
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.dll
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Modbus.dll
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\log4net.dll
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Unme.Common.dll
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.xml
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csprojAssemblyReference.cache
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Form1.resources
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.KerkoAbonimin.resources
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.LockerSettings.resources
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Properties.Resources.resources
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AbonimetForm.resources
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Settings.resources
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ShfaqInfomatat.resources
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ZhFemrave.resources
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ZhMeshkujve.resources
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.GenerateResource.cache
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CoreCompileInputs.cache
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CopyComplete
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.exe
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.pdb
+C:\Users\Getoar\Desktop\Transformohu Final Mas&Slave\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AsocoDollapin.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\AddAdmin.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\AddTrainer.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Entry.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Supervisor.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\DeleteAdmin.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\DeleteTrainer.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EditAdmin.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EditTrainer.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ClientReport.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Sales.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\AddAdmin.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\AddAdmin.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\AddTrainer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\AddTrainer.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Entry.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Entry.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Supervisor.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Supervisor.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\DeleteAdmin.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\DeleteAdmin.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\DeleteTrainer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\DeleteTrainer.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EditAdmin.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EditAdmin.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EditTrainer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EditTrainer.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ClientReport.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ClientReport.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Sales.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Sales.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe.config
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.pdb
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.dll
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.xml
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csprojAssemblyReference.cache
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.CheckIn.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AddAdmin.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AddTrainer.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AddUpdateStock.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AsocoDollapin.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.CashOut.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Entry.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Supervisor.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.DeleteAdmin.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.DeleteTrainer.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.EditAdmin.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.EditTrainer.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Form1.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.FormDashboard.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.KerkoAboniminUsers.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.KerkoAbonimin.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.LockerSettings.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AbonimetFromUsers.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Login.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.POS.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Properties.Resources.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AbonimetForm.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ClientReport.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Sales.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Settings.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ShfaqInfomatat.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ZhFemrave.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ZhMeshkujve.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.GenerateResource.cache
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CoreCompileInputs.cache
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CopyComplete
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.exe
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.pdb
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\AddAdmin.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\AddTrainer.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\Entry.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\Supervisor.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\DeleteAdmin.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\DeleteTrainer.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\EditAdmin.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\EditTrainer.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\ClientReport.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\Sales.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\AddAdmin.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\AddAdmin.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\AddTrainer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\AddTrainer.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\Entry.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\Entry.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\Supervisor.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\Supervisor.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\DeleteAdmin.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\DeleteAdmin.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\DeleteTrainer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\DeleteTrainer.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\EditAdmin.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\EditAdmin.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\EditTrainer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\EditTrainer.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\ClientReport.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\ClientReport.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\Sales.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\Sales.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe.config
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.pdb
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\EntityFramework.dll
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\EntityFramework.xml
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csprojAssemblyReference.cache
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.CheckIn.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AddAdmin.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AddTrainer.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AddUpdateStock.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AsocoDollapin.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.CashOut.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Entry.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Supervisor.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.DeleteAdmin.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.DeleteTrainer.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.EditAdmin.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.EditTrainer.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Form1.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.FormDashboard.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.KerkoAboniminUsers.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.KerkoAbonimin.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.LockerSettings.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AbonimetFromUsers.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Login.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.POS.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Properties.Resources.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AbonimetForm.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ClientReport.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Sales.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Settings.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ShfaqInfomatat.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ZhFemrave.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ZhMeshkujve.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.GenerateResource.cache
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CoreCompileInputs.cache
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CopyComplete
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.exe
+C:\Users\Dopi\source\repos\ProjektiTransformohu1\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.pdb
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.SuperAdmin.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\SalesStaff.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\SalesStaff.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\SalesStaff.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.SalesStaff.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\StockLog.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\StockLog.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\StockLog.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.StockLog.resources
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\SalesAdmin.resx
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\SalesAdmin.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\SalesAdmin.Designer.cs
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.SalesAdmin.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\AddAdmin.resx
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\AddTrainer.resx
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Entry.resx
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\SalesAdmin.resx
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\StockLog.resx
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\SalesStaff.resx
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Supervisor.resx
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\DeleteAdmin.resx
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\DeleteTrainer.resx
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EditAdmin.resx
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EditTrainer.resx
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ClientReport.resx
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Sales.resx
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\AddAdmin.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\AddAdmin.Designer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\AddTrainer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\AddTrainer.Designer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Entry.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Entry.Designer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\SalesAdmin.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\SalesAdmin.Designer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\StockLog.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\StockLog.Designer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\SalesStaff.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\SalesStaff.Designer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Supervisor.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Supervisor.Designer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\DeleteAdmin.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\DeleteAdmin.Designer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\DeleteTrainer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\DeleteTrainer.Designer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EditAdmin.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EditAdmin.Designer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EditTrainer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EditTrainer.Designer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ClientReport.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ClientReport.Designer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Sales.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Sales.Designer.cs
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe.config
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.pdb
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.dll
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.xml
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csprojAssemblyReference.cache
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.CheckIn.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AddAdmin.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AddTrainer.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AddUpdateStock.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AsocoDollapin.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.CashOut.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Entry.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.SalesAdmin.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.StockLog.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.SalesStaff.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.SuperAdmin.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Supervisor.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.DeleteAdmin.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.DeleteTrainer.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.EditAdmin.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.EditTrainer.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Form1.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.FormDashboard.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.KerkoAboniminUsers.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.KerkoAbonimin.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.LockerSettings.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AbonimetFromUsers.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Login.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.POS.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Properties.Resources.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.AbonimetForm.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ClientReport.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Sales.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Settings.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ShfaqInfomatat.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ZhFemrave.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.ZhMeshkujve.resources
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.GenerateResource.cache
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CoreCompileInputs.cache
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CopyComplete
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.exe
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.pdb
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Modbus.dll
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\log4net.dll
+C:\Users\Kobit PC\Desktop\ProjektiTransformohuFinalS\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Unme.Common.dll
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\log4net.dll
+C:\Users\Dopi\source\repos\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Unme.Common.dll
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe.config
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.exe
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\ProjektiTransformohu.pdb
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Bunifu_UI_v1.52.dll
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.dll
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.dll
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\log4net.dll
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\Unme.Common.dll
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.xml
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\bin\Debug\EntityFramework.SqlServer.xml
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csprojAssemblyReference.cache
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Login.resources
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.Properties.Resources.resources
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.GenerateResource.cache
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CoreCompileInputs.cache
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.csproj.CopyComplete
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.exe
+E:\projects\ProjektiTransformohu\ProjektiTransformohu\obj\Debug\ProjektiTransformohu.pdb

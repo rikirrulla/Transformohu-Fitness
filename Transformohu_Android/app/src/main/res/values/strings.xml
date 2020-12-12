@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fit</string>
+    <string-array name="trainer_array">
+        <item>Lou Ferrigno</item>
+        <item>Gunnar Peterson</item>
+    </string-array>
+
+    <string-array name="pako_array">
+        <item>1 muaj bazike</item>
+        <item>1 muaj zumba</item>
+        <item>1 muaj intense core</item>
+        <item>1 muaj pa cante</item>
+        <item>1 muaj pa yoga</item>
+        <item>3 muaj bazike</item>
+        <item>3 muaj zumba</item>
+        <item>3 muaj intense core</item>
+        <item>3 muaj pa cante</item>
+        <item>3 muaj pa yoga</item>
+        <item>6 muaj bazike</item>
+        <item>6 muaj zumba</item>
+        <item>6 muaj intense core</item>
+        <item>6 muaj pa cante</item>
+        <item>6 muaj yoga</item>
+        <item>12 muaj bazike</item>
+        <item>12 muaj pa cante</item>
+        <item></item>
+    </string-array>
+</resources>

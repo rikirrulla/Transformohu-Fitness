@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TransformohuDBEntitiesModelStoreContainer" CdmEntityContainer="TransformohuDBEntities">
+    <EntitySetMapping Name="Abonuesi">
+      <EntityTypeMapping TypeName="TransformohuDBEntitiesModel.Abonuesi">
+        <MappingFragment StoreEntitySet="Abonuesi">
+          <ScalarProperty Name="DataRegjistrimit" ColumnName="DataRegjistrimit" />
+          <ScalarProperty Name="Pako" ColumnName="Pako" />
+          <ScalarProperty Name="Traineri" ColumnName="Traineri" />
+          <ScalarProperty Name="Foto" ColumnName="Foto" />
+          <ScalarProperty Name="IsInside" ColumnName="IsInside" />
+          <ScalarProperty Name="DataSkadimit" ColumnName="DataSkadimit" />
+          <ScalarProperty Name="DataFillimit" ColumnName="DataFillimit" />
+          <ScalarProperty Name="Gjinia" ColumnName="Gjinia" />
+          <ScalarProperty Name="PersonalNr" ColumnName="PersonalNr" />
+          <ScalarProperty Name="Mbiemri" ColumnName="Mbiemri" />
+          <ScalarProperty Name="Emri" ColumnName="Emri" />
+          <ScalarProperty Name="RFIDNr" ColumnName="RFIDNr" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DollapatFemraves">
+      <EntityTypeMapping TypeName="TransformohuDBEntitiesModel.DollapatFemraves">
+        <MappingFragment StoreEntitySet="DollapatFemraves">
+          <ScalarProperty Name="RFIDNr" ColumnName="RFIDNr" />
+          <ScalarProperty Name="NrDollapit" ColumnName="NrDollapit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DollapatMeshkujts">
+      <EntityTypeMapping TypeName="TransformohuDBEntitiesModel.DollapatMeshkujts">
+        <MappingFragment StoreEntitySet="DollapatMeshkujts">
+          <ScalarProperty Name="RFIDNr" ColumnName="RFIDNr" />
+          <ScalarProperty Name="NrDollapit" ColumnName="NrDollapit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
